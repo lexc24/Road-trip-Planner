@@ -7,7 +7,6 @@ which retrieves travel durations between two locations.
 
 import googlemaps
 
-Maps = googlemaps.Client(key="AIzaSyDsot6rPPwovlqUfo8-TGyF1KNSfG1D9e4")
 
 
 def getInfo(start, end):

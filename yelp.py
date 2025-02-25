@@ -10,8 +10,6 @@ from yelpapi import YelpAPI
 import pandas as pd
 import json
 
-api_key = 'L1nkRAIb3KHHHTNHKSwHTeLS778qy2cNhUbzUGDlr6VzO4Na_mgRfbQeLaRoNRgObFcQmzaRT-' \
-          'izM6BsRFCRVroPg2FbB9J52QWC8vKFOzs3mpKts3_b6BTPWrfpY3Yx'
 yelp_api = YelpAPI(api_key)
 
 
